@@ -14,6 +14,10 @@ alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/projects"
 alias g="git"
+alias co="checkout"
+alias f="fetch"
+alias rb="rebase"
+alias rbi="rebase -i"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
