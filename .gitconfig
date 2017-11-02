@@ -1,6 +1,10 @@
 [alias]
 
+	# Aliases for gitting
 	co = checkout
+	f=fetch
+	rb=rebase
+	rbi=rebase -i
 
 	# View abbreviated SHA, description, and history graph of the latest 20 commits
 	l = log --pretty=oneline -n 20 --graph --abbrev-commit
