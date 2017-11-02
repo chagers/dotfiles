@@ -1,6 +1,7 @@
 [alias]
 
 	# Aliases for gitting
+	g = git
 	co = checkout
 	f = fetch
 	rb = rebase
